@@ -70,6 +70,7 @@
 			logout: function() {
 				localStorage.removeItem("email");
 				localStorage.removeItem("pass");
+				this.$router.push("/");
 			}
 		}
 	};

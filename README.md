@@ -19,6 +19,10 @@ npm run build
 ```
 npm run lint
 ```
+### Demo
+```
+https://vue-login-test1-qzwini.netlify.app
+```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
