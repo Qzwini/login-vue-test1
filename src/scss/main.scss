@@ -1,0 +1,16 @@
+$pri: #0069D9;
+$proHove: #222;
+.co-bag {
+    color: $pri !important;
+    // font-size: 1000px;
+}
+
+.co-bag:hover {
+    color: $proHove !important;
+}
+
+.btn-pri:hover {
+    color: white !important;
+    background-color: $proHove !important;
+    border-color: $proHove !important;
+}
